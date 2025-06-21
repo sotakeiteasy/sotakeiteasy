@@ -3,8 +3,7 @@
 I focus on creating effective, user-friendly solutions. I enjoy learning new skills and solving challenging problems.
 Write me if you have an idea and need a hand!
 
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sotakeiteasy)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murasov96@gmail.com)
+Telegram: https://t.me/sotakeiteasy
 
 ---
 
